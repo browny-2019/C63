@@ -115,7 +115,7 @@ export default class HomeScreen extends Component{
            }}
         /> 
       */}
-      {/*
+      {
           <TextInput
             style={styles.inputBox}
             onChangeText={text => {
